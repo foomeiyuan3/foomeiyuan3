@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Mei Yuan 👋
+
+🌱 Master of Instructional Multimedia (Graduated in 2025)<br>
+⚡ Self-motivated, eager to learn<br>
+🔭 Visit my [LinkedIn](https://www.linkedin.com/in/mei-yuan-foo/)<br>
+✨ I like to read books
+
 
 <!--
 **foomeiyuan3/foomeiyuan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
